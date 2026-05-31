@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentspdate",
+        "uuid": 15225032,
+        "checksum": "2mz164"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
